@@ -1,0 +1,25 @@
+{
+  "name": "node-sass-webpack-plugin",
+  "version": "0.0.0",
+  "description": "A webpack plug-in of node-sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ajhsu/node-sass-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "sass",
+    "node-sass"
+  ],
+  "author": "AJ Hsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajhsu/node-sass-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/ajhsu/node-sass-webpack-plugin#readme"
+}
